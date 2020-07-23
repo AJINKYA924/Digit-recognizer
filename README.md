@@ -28,10 +28,10 @@ pip install numpy
 
 ### Example
 
-As code excute successfully you will see following interface or you amy also visit to link given.
+As code excute successfully you will see following interface or you may also visit to link given. Draw you digit in Image section and you will be able to see outpot in next to  window with Latency thanks to Gradio
 
 <p align="center">
-  <img src="https://github.com/AJINKYA924/Digit-recognizer/result.png?raw=true" alt="Example image"/>
+  <img src="https://github.com/AJINKYA924/Digit-recognizer/blob/master/result.png?raw=true" alt="Example image"/>
 </p>
 
 
